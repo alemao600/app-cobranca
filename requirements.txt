@@ -1,3 +1,6 @@
 streamlit
-fpdf
 pandas
+qrcode
+reportlab
+Pillow
+brcode
